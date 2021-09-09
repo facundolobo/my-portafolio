@@ -45,7 +45,7 @@ export const slides = slidesInfo.map((slide) => (
     <div className="slide-container">
       <img src={slide.src} alt={slide.alt} />
       <div className="slide-desc" >
-      <span><a href={slide.dir} target="_blank">{slide.desc}</a></span>
+      <span><a href={slide.dir} target="_blank" rel="noreferrer">{slide.desc}</a></span>
         {/* <span>{slide.desc}</span> */}
       </div>
     </div>

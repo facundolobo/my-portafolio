@@ -1,16 +1,12 @@
 import React, { useEffect, useState } from 'react'
 
 import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link
+  BrowserRouter as Router
 } from "react-router-dom";
 import { About } from "../components/about/About";
 // import { Contact } from "../components/contact/Contact";
 import { Cover } from "../components/cover/Cover";
 import { Footer } from '../components/footer/Footer';
-import { Header } from "../components/header/Header";
 import { Info } from '../components/info/Info';
 import { Navbar } from "../components/navbar/Navbar";
 // import { Projects } from "../components/proyect/Projects";

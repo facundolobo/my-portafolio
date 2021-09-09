@@ -6,7 +6,6 @@ import nodejs from "../../media/skills/nodejs.jpg"
 import reactjs from "../../media/skills/reactjs.jpg"
 import redux from "../../media/skills/redux.jpg"
 import javascript from "../../media/skills/javascript.jpg"
-import css from "../../media/skills/css.jpg"
 import html from "../../media/skills/html.jpg"
 import selenium from "../../media/skills/selenium.png"
 
@@ -20,41 +19,41 @@ export const Skills = () => {
 
             <div class="card">
     
-                <img src={mongodb}/>
+                <img src={mongodb} alt="1"/>
                 <p>⭐⭐⭐⭐⚫</p>
                     
             </div>
             
             <div class="card">
     
-                <img src={express} />
+                <img src={express} alt="2"/>
                 <p>⭐⭐⭐⭐⚫</p>
             </div>
             
     
             <div class="card">
     
-                <img src={reactjs}/>
+                <img src={reactjs} alt="3"/>
                 <p>⭐⭐⭐⭐⚫</p>
             </div>
             <div class="card">
     
-                <img src={nodejs}/>
+                <img src={nodejs} alt="4"/>
                 <p>⭐⭐⭐⭐⚫</p>
             </div>
             <div class="card">
     
-                <img src={redux}/>
+                <img src={redux} alt="5"/>
                 <p>⭐⭐⭐⭐⚫</p>
             </div>
             <div class="card">
     
-                <img src={javascript}/>
+                <img src={javascript} alt="6"/>
                 <p>⭐⭐⭐⭐⚫</p>
             </div>
             <div class="card">
     
-                <img src={selenium}/>
+                <img src={selenium} alt="7"/>
                 <p>⭐⭐⭐⚫⚫</p>
             </div>
             {/* <div class="card">
@@ -64,7 +63,7 @@ export const Skills = () => {
             </div> */}
             <div class="card">
     
-                <img src={html}/>
+                <img src={html} alt="8"/>
                 <p>⭐⭐⭐⭐⚫</p>
             </div>
         </div>
