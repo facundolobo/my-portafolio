@@ -37,7 +37,7 @@ const slidesInfo = [
       src:portafolio,
       alt: "Project 5",
       desc: "App Web Protafolio",
-      dir:'https://github.com/facundolobo/SimuladorDePlanificacionDeProceso'
+      dir:'https://facundo-lobo.netlify.app/'
     }
   ];
 
