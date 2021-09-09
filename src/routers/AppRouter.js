@@ -47,8 +47,8 @@ export const AppRouter = () => {
         <Slider/>
 
         <Info/>
-        <Skills/>
         <Footer/>
+        <Skills/>
 
         {/* Skills */}
         {/* <Skills/> */}
