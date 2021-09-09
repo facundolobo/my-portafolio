@@ -45,9 +45,9 @@ export const AppRouter = () => {
         <About/>
         
         <Slider/>
-        <Skills/>
 
         <Info/>
+        <Skills/>
         <Footer/>
 
         {/* Skills */}

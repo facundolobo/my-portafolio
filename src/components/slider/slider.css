@@ -73,6 +73,7 @@
 @media only screen and (max-width: 960px) {
   .carousel-container {
     flex-direction: column;
+    
   }
 
   .carousel-title {
