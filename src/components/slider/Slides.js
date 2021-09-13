@@ -1,10 +1,10 @@
 import React from "react";
 import "./slider.css";
-import cotizar from '../../media/proyect/cotizar.jpg'
+import cotizar from '../../media/proyect/cotizar.png'
 import materialDidactico from '../../media/proyect/material-didactico.png'
 import materias from '../../media/proyect/materias.png'
 import simulador from '../../media/proyect/simulador.png'
-import portafolio from '../../media/proyect/portafolio.jpg'
+import portafolio from '../../media/proyect/portafolio.png'
 import apirest from '../../media/proyect/apirest.png'
 
 
