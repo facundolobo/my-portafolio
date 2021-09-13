@@ -5,10 +5,16 @@ import materialDidactico from '../../media/proyect/material-didactico.png'
 import materias from '../../media/proyect/materias.png'
 import simulador from '../../media/proyect/simulador.png'
 import portafolio from '../../media/proyect/portafolio.jpg'
-
+import apirest from '../../media/proyect/apirest.png'
 
 
 const slidesInfo = [
+    {
+      src:apirest,
+      alt: "Project 0",
+      desc: "Rest Server",
+      dir:'https://github.com/facundolobo/RestServer-FacundoLobo'
+    },
     {
       src:cotizar,
       alt: "Project 1",
@@ -43,7 +49,11 @@ const slidesInfo = [
 
 export const slides = slidesInfo.map((slide) => (
     <div className="slide-container">
+      <a href={slide.dir} target="_blank" rel="noreferrer">
       <img src={slide.src} alt={slide.alt} />
+
+      </a>
+      
       <div className="slide-desc" >
       <span><a href={slide.dir} target="_blank" rel="noreferrer">{slide.desc}</a></span>
         {/* <span>{slide.desc}</span> */}

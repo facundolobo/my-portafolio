@@ -13,7 +13,7 @@ export const Slider = () => {
 
       <Carousel
         arrows
-        slidesPerPage={3}
+        slidesPerPage={5}
         infinite
         animationSpeed={200}
         centered
