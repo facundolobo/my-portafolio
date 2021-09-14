@@ -1,7 +1,7 @@
 
 .about-container{
     display: flex;
-    background-color: #dfe6e9;
+    background-color: #81ecec;
     color: black;
     height: 70vh;
     
@@ -19,10 +19,13 @@
 .about-desc > h3{
     margin-bottom: 30px;
     font-size: 28px;
+    font-size: 50px;
 }
 
 .about-desc > p {
     line-height: 1.5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
 }
 
 .about-img{
