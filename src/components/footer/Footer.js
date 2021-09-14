@@ -5,7 +5,7 @@ export const Footer = () => {
         <footer className="footer">
             <div className="footer-info">
                 <h1>Facundo Lobo</h1>
-                <p>Argentina Catamarca</p>
+                <p>Argentina Buenos Aires</p>
             </div>
             <div className="footer-contact">
                 <h3>Contactame por mi LinkedIn</h3>
