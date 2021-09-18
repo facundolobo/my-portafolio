@@ -9,7 +9,7 @@ export const About = () => {
                     <h3> Sobre mi</h3>
                     <p>
 
-                    Me llamo Facundo Lobo, tengo 26 años y actualmente termine de cursar la carrera de Ingeniería en Informática en la Universidad Nacional de Catamarca.
+                    Me llamo Facundo Lobo, tengo 26 años y actualmente soy Alumno avanzado de Ingeniería en Informática en la Universidad Nacional de Catamarca.
 
                     Empecé en el mundo del desarrollo web hace dos años. Me apasiona la informática, la tecnología y la electrónica.
 
