@@ -6,9 +6,16 @@ import materias from '../../media/proyect/materias.png'
 import simulador from '../../media/proyect/simulador.png'
 import portafolio from '../../media/proyect/portafolio.png'
 import apirest from '../../media/proyect/apirest.png'
+import simuladorWeb from '../../media/proyect/simulador-web.png'
 
 
 const slidesInfo = [
+    {
+      src:simuladorWeb,
+      alt: "Project 7",
+      desc: "Rest Server Usuarios-Procesos ",
+      dir:'https://github.com/facundolobo/RestServerUsuarioProceso'
+    },
     {
       src:apirest,
       alt: "Project 0",
