@@ -32,10 +32,10 @@ export const Cover = () => {
                     }}
                 />         
             </p>  
-            <section class="buttons">
+            <div class="buttons">
                 <a href="mailto:facundolobo2@gmail.com" class="fa fa-envelope"></a>
                 <a href="https://www.linkedin.com/in/facundo-fabian-lobo"  rel="noreferrer" class="fa fa-linkedin"></a>
-            </section>
+            </div>
         </div>
     )
 }
