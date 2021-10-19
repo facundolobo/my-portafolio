@@ -10,7 +10,7 @@ import { Footer } from '../components/footer/Footer';
 import { Info } from '../components/info/Info';
 // import { Projects } from "../components/proyect/Projects";
 import { Skills } from "../components/skills/Skills";
-import {Slider} from "../components/slider/Slider"
+// import {Slider} from "../components/slider/Slider"
 
 
 
