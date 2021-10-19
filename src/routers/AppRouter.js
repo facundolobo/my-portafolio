@@ -8,7 +8,6 @@ import { About } from "../components/about/About";
 import { Cover } from "../components/cover/Cover";
 import { Footer } from '../components/footer/Footer';
 import { Info } from '../components/info/Info';
-import { Navbar } from "../components/navbar/Navbar";
 // import { Projects } from "../components/proyect/Projects";
 import { Skills } from "../components/skills/Skills";
 import {Slider} from "../components/slider/Slider"
@@ -35,7 +34,7 @@ export const AppRouter = () => {
       <div>
         {/* //barra de herramientas */}
         
-        <Navbar isScrollHeight= {scrollHeight}/>
+        {/* <Navbar isScrollHeight= {scrollHeight}/> */}
         {/* <Header/> */}
 
         {/* video   */}
@@ -44,7 +43,7 @@ export const AppRouter = () => {
         {/* about */}
         <About/>
         
-        <Slider/>
+        {/* <Slider/> */}
 
         <Info/>
         <Footer/>

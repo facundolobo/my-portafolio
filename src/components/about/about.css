@@ -1,18 +1,18 @@
 
 .about-container{
     display: flex;
-    background-color: #fd79a8;
+    background-color: #74b9ff;
     color: black;
-    height: 70vh;
     
-    padding: 100px 0 100px 0;
+    
+    padding: 50px 0 50px 0;
 }
 
 .about-desc{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 70%;
+    width: 60%;
     padding: 0 100px 0 100px;
 }
 
@@ -29,11 +29,11 @@
 }
 
 .about-img{
-    height: 600px;
-    width: 200px;
+    /* height: 600px;
+    width: 200px; */
     display: flex;
     align-self: center; 
-    height: 80%;
+    /* height: 80%; */
     border-radius: 80px;
     overflow: hidden;
     /* position: relative; */
@@ -55,12 +55,17 @@
     }
   
     .about-desc > h3 {
+      font-size: 30px;
+      text-align: center;
+    }
+
+    .about-desc > p {
       font-size: 20px;
       text-align: center;
     }
   
     .about-img {
-      width: 150px;
+      width: 200px;
       margin-bottom: 50px;
     }
   
