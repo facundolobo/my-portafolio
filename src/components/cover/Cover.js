@@ -33,8 +33,8 @@ export const Cover = () => {
                 />         
             </p>  
             <div class="buttons">
-                <a href="mailto:facundolobo2@gmail.com"  aria-hidden="true" class="fa fa-envelope"></a>
-                <a href="https://www.linkedin.com/in/facundo-fabian-lobo"  rel="noreferrer" aria-hidden="true" class="fa fa-linkedin"></a>
+                <a href="mailto:facundolobo2@gmail.com" id="1" class="fa fa-envelope"></a>
+                <a href="https://www.linkedin.com/in/facundo-fabian-lobo"  rel="noreferrer" id="2" class="fa fa-linkedin"></a>
             </div>
         </div>
     )
