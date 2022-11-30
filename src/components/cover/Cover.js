@@ -8,7 +8,7 @@ export const Cover = () => {
         <div className="cover-container">
 
             {/* <video className="video" src={coverVideo} autoPlay loop muted />ç */}
-            <h1 className="animate__animated animate__heartBeat">Hola! Soy Facundo</h1>
+            <h1 className="animate__animated animate__heartBeat">Hola! Soy Facundo v3</h1>
             <p>
                 <Typewriter
                     options={{
